@@ -1,4 +1,4 @@
-# homework4
+# Homework 4
 
 [![Language](https://img.shields.io/badge/Language-gawk-orange?link=https%3A%2F%2Fwww.gnu.org%2Fsoftware%2Fgawk%2Fmanual%2F)](https://www.gnu.org/software/gawk/manual/)
 [![Platform](https://img.shields.io/badge/Platform-Linux-blue?logo=linux&labelColor=black)](https://www.linux.org/)
