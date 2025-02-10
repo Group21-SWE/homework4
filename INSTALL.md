@@ -9,8 +9,33 @@ I've included a quick guide below for running each of the deliverables in Homewo
     ```
 
 ## Run Each Task in Terminal
-- Task 4
+### Task 1
+    ```bash
+    sh task1.sh titanic.csv
+
+    ```
+### Task 2
+    ```bash
+    sh task2.sh titanic.csv
+
+    ```
+### Task 3
+    ```bash
+    awk -f 5.awk titanic.csv
+
+    ```
+### Task 4
     ```bash
     awk -f class.awk titanic.csv
+
+    ```
+### Task 5
+    ```bash
+    awk -f live.awk titanic.csv
+
+    ```
+### Task 6
+    ```bash
+    awk -f age.awk titanic.csv
 
     ```
